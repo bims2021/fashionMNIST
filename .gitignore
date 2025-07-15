@@ -1,5 +1,6 @@
 # Ignore common data and output files
 *.csv
+*.xlsx
 
 # Ignore machine learning model files
 *.h5
@@ -25,4 +26,4 @@ venv/
 env/
 
 # If you have specific large data directories
-# /data/
+/data/
